@@ -32,7 +32,6 @@ The table shows the results of the binning approach:
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/107796290/205516429-87c48c0f-8146-426c-9ace-48100d8ecc22.png">
 The density plot most common unique values have more than 0 instances within the dataset. The bucket appears less than 0 times in any data set. 
 
-<img width="514" alt="image" src="https://user-images.githubusercontent.com/107796290/205516463-f3fa91d5-5f82-416a-ba02-01fa62815c98.png">
 
 
 Visualize the value counts of CLASSIFICATION 
@@ -50,7 +49,15 @@ The next process is to compile, train and evaluate the model the dataset. Basic 
 This was the  
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/107796290/205516482-50cebc10-a1f0-4d90-ac2e-38024674e5e0.png">
  
-As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately ____ of the time. As you can see the performance of the second test designs results are shared in the below summary results. 
+ <img width="514" alt="image" src="https://user-images.githubusercontent.com/107796290/205516463-f3fa91d5-5f82-416a-ba02-01fa62815c98.png">
+![2022-12-07 13 36 12](https://user-images.githubusercontent.com/107796290/206267289-8f0804c1-8cc7-417e-b70b-e16540a657a9.png)
+
+ The ideal optimize for the above model was to predict the accuracy higher than 75%. As a results the loss was 0.5542356371879578 with an accuracy 0.7278 and the loss was 0.5542356371879578. 
+
+![2022-12-07 13 38 12](https://user-images.githubusercontent.com/107796290/206267668-9b20246c-d630-4b01-a9dd-b1399a786225.png)
+
+ 
+As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately accuracy in the second TensorFlow, optimize yor model on order to target predictive accuracy was accuracy .72991251 As you can see the performance of the second test designs results are shared in the below summary results. 
 
 
 Summary results:
