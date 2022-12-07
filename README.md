@@ -45,7 +45,8 @@ The Results:
 As you have reviewed several of the most common scaffold processes to organize the neutral network testing and training using bucketing and encoding as with as other techniques to demonstrate where to make investments for loan prediction risk analysis that would be accurate and implicate the potential losses.
 
 The next process is to compile, train and evaluate the model the dataset. Basic neutral networking with several neurons to create a deeper understanding with hidden layers to deep operational changes to neural networking. This was done twice to compare the accuracy and loss of potential credit risk and investment.
-  
+  ![image](https://user-images.githubusercontent.com/107796290/206278566-e5e2c7d3-870e-4ee2-9a4c-46b97db97a04.png)
+
 
  The ideal optimize for the above model was to predict the accuracy higher than 75%. As a results the loss was 0.5542356371879578 with an accuracy 0.7278.
 
@@ -63,8 +64,10 @@ In conclusion, the prediction of application type expressed in the table below i
 
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/107796290/205516544-f12a4856-db21-425e-831e-7b2d8e236be9.png">
 
- As opposed to the next compilation, train and evaluation model using several nodes and accuracy results were processed with 5 node layers. 
+![2022-12-07 14 36 10](https://user-images.githubusercontent.com/107796290/206278807-f8f08c25-4cb7-4fda-99d7-bc09975d112f.png)
 
+
+ As opposed to the next compilation, train and evaluation model using several nodes and accuracy results were processed with 5 node layers. 
 
   The potential loss indicated 0.58... and the prediction for accuracy 0.73084... which is close to the target predictive accuracy 75% however to optimize achievement. 
   
