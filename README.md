@@ -1,5 +1,4 @@
-# Neural_Network_Analysis
-google colab with charity_data
+
 # Neural_Network_Charity_Analysis
 Alphabet Soup Charity
 
