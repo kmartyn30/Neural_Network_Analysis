@@ -73,7 +73,7 @@ In conclusion, the prediction of application type expressed in the table below i
 
  As opposed to the next compilation, train and evaluation model using several nodes and accuracy results were processed with 5 node layers. 
 
-<img width="614" alt="image" src="https://user-images.githubusercontent.com/107796290/205516564-00203312-94f1-41ca-b1d2-4f9e3d4008ef.png">
+
   The potential loss indicated 0.58... and the prediction for accuracy 0.73084... which is close to the target predictive accuracy 75% however to optimize achievement. 
   
 
