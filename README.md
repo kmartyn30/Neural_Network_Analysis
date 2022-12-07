@@ -45,14 +45,8 @@ The Results:
 As you have reviewed several of the most common scaffold processes to organize the neutral network testing and training using bucketing and encoding as with as other techniques to demonstrate where to make investments for loan prediction risk analysis that would be accurate and implicate the potential losses.
 
 The next process is to compile, train and evaluate the model the dataset. Basic neutral networking with several neurons to create a deeper understanding with hidden layers to deep operational changes to neural networking. This was done twice to compare the accuracy and loss of potential credit risk and investment.
-  ![image](https://user-images.githubusercontent.com/107796290/206278566-e5e2c7d3-870e-4ee2-9a4c-46b97db97a04.png)
-
-
- The ideal optimize for the above model was to predict the accuracy higher than 75%. As a results the loss was 0.5542356371879578 with an accuracy 0.7278.
-
  
- As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately accuracy in the second TensorFlow, optimize yor model on order to target predictive accuracy was accuracy 0.72991251 As you can see the performance of the second test designs results are shared in the below summary results. 
-
+ As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately accuracy in the second TensorFlow, optimize yor model on order to target predictive accuracy was accuracy 0.72991251 As you can see the performance of the second test designs results are shared in the summary results. 
 
 Summary results:
 
@@ -72,5 +66,5 @@ In conclusion, the prediction of application type expressed in the table below i
   The potential loss indicated 0.58... and the prediction for accuracy 0.73084... which is close to the target predictive accuracy 75% however to optimize achievement. 
   
 
-  We are comparing both models predictive accuracy and the calcuations are very similar, either model will be able to prediction the risk of the loan ore lower than 75% of the time. As you recall the logical regression model vs the neutral network are more like to overfit and can be more difficult to transform than the logical regresssion. Hoverever the neural network  can thrive in larger data set similarly to the data we have been using a predictive model across neurons due to deep learning evaulation of every interaction. In turn all three trials to compile, train and evaluate the models did not overperform the 75% accuracy, altough there were three attempts.  
+  In comparing both models predictive accuracy and the calcuations are very similar, either model will be able to prediction the risk of the loan ore lower than 75% of the time. As you recall the logical regression model vs the neutral network are more like to overfit and can be more difficult to transform than the logical regresssion. Hoverever the neural network  can thrive in larger data set similarly to the data we have been using a predictive model across neurons due to deep learning evaulation of every interaction. In turn all three trials to compile, train and evaluate the models did not overperform the 75% accuracy, altough there were three attempts.  
 
