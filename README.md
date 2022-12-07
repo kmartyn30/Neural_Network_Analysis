@@ -34,13 +34,16 @@ The table shows the results of the binning approach:
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/107796290/205516429-87c48c0f-8146-426c-9ace-48100d8ecc22.png">
 The density plot most common unique values have more than 0 instances within the dataset. The bucket appears less than 0 times in any data set. 
 
+![2022-12-07 15 39 31](https://user-images.githubusercontent.com/107796290/206290870-e4c96889-59de-44e4-aba5-04f92e8cca55.png)
 
-Visualize the value counts of CLASSIFICATION 
+
+
+Visualize CLASSIFICATION:
 
 One-hot encoding was to identify the unique column value to split the categorical column values. This process accelerates the memory course the data difficulty to navigate during the filtering process. This will fit our values to run the dataset. This process was to join the two data frames. 
  
 
-The Results:
+The RESULTS:
 
 As you have reviewed several of the most common scaffold processes to organize the neutral network testing and training using bucketing and encoding as with as other techniques to demonstrate where to make investments for loan prediction risk analysis that would be accurate and implicate the potential losses.
 
