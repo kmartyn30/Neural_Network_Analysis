@@ -35,13 +35,10 @@ The table shows the results of the binning approach:
 The density plot most common unique values have more than 0 instances within the dataset. The bucket appears less than 0 times in any data set. 
 
 
-
 Visualize the value counts of CLASSIFICATION 
 
 One-hot encoding was to identify the unique column value to split the categorical column values. This process accelerates the memory course the data difficulty to navigate during the filtering process. This will fit our values to run the dataset. This process was to join the two data frames. 
  
-<img width="1335" alt="image" src="https://user-images.githubusercontent.com/107796290/205516477-07edff13-fe03-4e39-bfea-9da91e909b35.png">
-
 
 The Results:
 
