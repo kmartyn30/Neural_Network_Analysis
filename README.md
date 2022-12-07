@@ -52,7 +52,6 @@ The next process is to compile, train and evaluate the model the dataset. Basic 
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/107796290/205516482-50cebc10-a1f0-4d90-ac2e-38024674e5e0.png">
  
  <img width="514" alt="image" src="https://user-images.githubusercontent.com/107796290/205516463-f3fa91d5-5f82-416a-ba02-01fa62815c98.png">
-![2022-12-07 13 36 12](https://user-images.githubusercontent.com/107796290/206267289-8f0804c1-8cc7-417e-b70b-e16540a657a9.png)
 
  The ideal optimize for the above model was to predict the accuracy higher than 75%. As a results the loss was 0.5542356371879578 with an accuracy 0.7278 and the loss was 0.5542356371879578. 
 
