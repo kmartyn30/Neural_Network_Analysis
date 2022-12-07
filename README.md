@@ -46,13 +46,8 @@ As you have reviewed several of the most common scaffold processes to organize t
 
 The next process is to compile, train and evaluate the model the dataset. Basic neutral networking with several neurons to create a deeper understanding with hidden layers to deep operational changes to neural networking. This was done twice to compare the accuracy and loss of potential credit risk and investment.
   
-<img width="537" alt="image" src="https://user-images.githubusercontent.com/107796290/205516482-50cebc10-a1f0-4d90-ac2e-38024674e5e0.png">
- 
- <img width="514" alt="image" src="https://user-images.githubusercontent.com/107796290/205516463-f3fa91d5-5f82-416a-ba02-01fa62815c98.png">
 
- The ideal optimize for the above model was to predict the accuracy higher than 75%. As a results the loss was 0.5542356371879578 with an accuracy 0.7278 and the loss was 0.5542356371879578. 
-
-![2022-12-07 13 38 12](https://user-images.githubusercontent.com/107796290/206267668-9b20246c-d630-4b01-a9dd-b1399a786225.png)
+ The ideal optimize for the above model was to predict the accuracy higher than 75%. As a results the loss was 0.5542356371879578 with an accuracy 0.7278.
 
  
  As we review the deep learning in the model performance metric, the model identify employees who's application is at risk approximately accuracy in the second TensorFlow, optimize yor model on order to target predictive accuracy was accuracy 0.72991251 As you can see the performance of the second test designs results are shared in the below summary results. 
