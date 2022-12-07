@@ -12,7 +12,7 @@ Alphabet Soup Charity
 •	create a categorized variable list.
 •	process and split data into target features arrays to scale the dataset.
 •	This was completed in two environments one the jupyter notebook using python until the kernel indicated were dead resulting the use of google colab python3 to process the data for neutral network. 
-The overarching opitmization for this model was target proective accuracy hiher than 75% with over compile, train, and  evluation to remove features that have noisy variables. 
+The overarching opitmization for this model was target proective accuracy hiher than 75% with over compile, train, and  evluation to remove features that have noisy variables by increading the nodes layers to lessen the noise. The layers are added for the multiple advantages added to the hidden layer neutral network. By restoring the previous models weight s coefficeints to try to reverse overfiltting. There is a distribution effort to find optimal weight factors. All this factors will support Alphabet Soup's team to read the 34,000 data set in the csv file to predict if the applicants were successful if funded by the team's business. 
 
   First steps were to read the Charity data csv file to a panda DataFrame to the variables to determine and consider the features for the targets of the model. In doing so I had to drop the EIN and name column since they were not relevant to the data and decide to use unique values, to filter the data. Next, density plot to create a column for distinctive variables in a new column and review if binning outcome. In addition, to place the data in a new DataFrame by creating a variable entity to encode one-hot conversion to merge the two DataFrames the original and the one-hot encoded DataFrame. 
 
